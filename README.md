@@ -32,18 +32,6 @@ Bu proje Next.js ve TypeScript kullanılarak geliştirilmiştir.
 - Context API
 
 
-#  Proje Yapısı
-
-
-src/
- ├── app/            → Sayfa yapıları ve global stiller
- ├── components/     → Ortak bileşenler
- ├── features/       → Ürün işlemleri ve modüller
- ├── lib/            → Tema ve dil yönetimi
- └── shared/         → Ortak yardımcı yapılar
-
-public/              → Görseller ve statik dosyalar
-
 
 #  Ekran Görüntüleri
 
